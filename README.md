@@ -1,8 +1,5 @@
 # 資料庫管理系統 期中專案
 精品購買預約保養網站
-[![GitHub release](https://img.shields.io/github/release/Text-Analytics-and-Retrieval/db_class2023)](https://github.com/Text-Analytics-and-Retrieval/db_class2023/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/Text-Analytics-and-Retrieval/db_class2023)](https://github.com/Text-Analytics-and-Retrieval/db_class2023/main/LICENSE)
-
 使用Flask開發，後端使用Oracle資料庫
 <br>
 
